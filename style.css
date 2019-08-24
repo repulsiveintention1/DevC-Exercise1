@@ -1,0 +1,14 @@
+.box {
+    background: rgb(93, 83, 182);
+    margin: 50px;
+    border:1px solid black;
+    padding: 3rem;
+
+}
+
+.container1{
+    height: 300px;
+    margin-right: 4.5rem;
+    background-color: #4b39ee;
+    border-radius: 100px;
+}
